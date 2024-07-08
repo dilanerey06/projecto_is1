@@ -2,7 +2,9 @@
 
 
 PROJECT TITLE: InvBus
+
 VERSION or DATE: *Version 1.0.0*
+
 AUTHORS: Gabriel Antonio Chavarro Avellaneda - Dilan Esteban Rey Sepulveda
 
 
